@@ -3,7 +3,7 @@
 ## Family and friends
  * get an associates degree 
  * ~~pay off my car~~
- * Throw a surprise party for a loved one
+ * _Throw a surprise party for a loved one_
 
 ## Travel and Adventure
  * Visit hawaii
