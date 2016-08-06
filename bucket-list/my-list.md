@@ -1,18 +1,18 @@
 # My Bucket List
 
 ## Family and friends
- * Save for kids' college education
- * ~~Organize a family portrait~~
+ * get a associates degree 
+ * ~~pay off my car~~
  * Throw a surprise party for a loved one
 
 ## Travel and Adventure
- * Visit Antarctica
+ * Visit hawaii
  * Go skydiving
  * Dive the Great Barrier Reef
  
 ## Career
- * ~~Learn coding skills~~
- * Get a job in technology
+ * ~~Learn accounting~~
+ * Get a job in the FBI
 
 ## Service and volunteering
  * Join a nonprofit board
